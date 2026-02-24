@@ -3,6 +3,10 @@ portainer/portainer-ce:lts
 jc21/nginx-proxy-manager:latest
 docker.io/bitnami/postgresql:latest
 python:3.11-slim
+qdtoday/qd
+tensorflow/tensorflow
+pytorch/pytorch
+postgres
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
