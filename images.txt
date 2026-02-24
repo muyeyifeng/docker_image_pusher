@@ -1,5 +1,5 @@
 nginx
-portainer
+portainer/portainer-ce:lts
 jc21/nginx-proxy-manager:latest
 docker.io/bitnami/postgresql:latest
 python:3.11-slim
