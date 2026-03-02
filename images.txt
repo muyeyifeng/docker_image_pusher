@@ -2,6 +2,8 @@ nginx
 portainer/portainer-ce:lts
 jc21/nginx-proxy-manager:latest
 docker.io/bitnami/postgresql:latest
+xhofe/alist:latest
+drakkan/sftpgo:latest
 python:3.11-slim
 qdtoday/qd
 tensorflow/tensorflow
