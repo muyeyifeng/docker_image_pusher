@@ -3,6 +3,7 @@ portainer/portainer-ce:lts
 jc21/nginx-proxy-manager:latest
 docker.io/bitnami/postgresql:latest
 xhofe/alist:latest
+nginx:alpine
 drakkan/sftpgo:latest
 python:3.11-slim
 qdtoday/qd
