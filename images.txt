@@ -1,9 +1,9 @@
+easytier/easytier:v2.6.4
 nginx
 portainer/portainer-ce:lts
 jc21/nginx-proxy-manager:latest
 docker.io/bitnami/postgresql:latest
 ghcr.io/tailscale/derper:latest
-headscale/headscale:latest
 xhofe/alist:latest
 nginx:alpine
 drakkan/sftpgo:latest
@@ -13,7 +13,6 @@ tensorflow/tensorflow
 pytorch/pytorch
 postgres
 dperson/samba:latest
-easytier/easytier:v2.6.4
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
